@@ -11,7 +11,7 @@ interface Profile {
   name: string;
   avatar_url: string;
   website: string;
-  linkedUrl: string;
+  linkedinUrl: string;
   twitterUrl: string;
 }
 
